@@ -155,7 +155,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Developed by **Mohammed Aarifullah A**
+Developed by **Aayesha Siddiqah**
 
 ---
 
